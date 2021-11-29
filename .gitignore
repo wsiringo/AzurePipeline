@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AzurePipeline.Web/bin
+/AzurePipeline.Web/obj/Debug
+/packages
